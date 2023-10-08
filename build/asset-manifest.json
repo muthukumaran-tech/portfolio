@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e19fc854.css",
+    "main.js": "/static/js/main.6cbd3590.js",
+    "static/media/rentbased.png": "/static/media/rentbased.a2df4ca49681687e4e1d.png",
+    "static/media/zingquotes.png": "/static/media/zingquotes.df53bfcf73bb220753fe.png",
+    "static/media/bwg.png": "/static/media/bwg.597dbb9abdd10ea6e6fb.png",
+    "static/media/telegram.jpg": "/static/media/telegram.9a783a7da970e1d04ed3.jpg",
+    "static/media/mk1.png": "/static/media/mk1.1d2065a675571a9415d6.png",
+    "static/media/me.png": "/static/media/me.3e5a0e7044c50229b933.png",
+    "static/media/MuthuKumaranP.pdf": "/static/media/MuthuKumaranP.1b3938577276b15b603a.pdf",
+    "static/media/ongiljobs.png": "/static/media/ongiljobs.73f4c9711b6803294e24.png",
+    "static/media/mk3.png": "/static/media/mk3.51aa0637b23fce36fb1f.png",
+    "static/media/erp.png": "/static/media/erp.2ab70d7346d2eb57aef2.png",
+    "static/media/sample.jpg": "/static/media/sample.90ed6b476d1ed6a6e2d8.jpg",
+    "static/media/haspl.jpg": "/static/media/haspl.6b1cc818715a1a9a59d4.jpg",
+    "index.html": "/index.html",
+    "main.e19fc854.css.map": "/static/css/main.e19fc854.css.map",
+    "main.6cbd3590.js.map": "/static/js/main.6cbd3590.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e19fc854.css",
+    "static/js/main.6cbd3590.js"
+  ]
+}

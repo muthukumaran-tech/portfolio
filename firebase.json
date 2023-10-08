@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "muthukumaran",
     "public": "build",
     "ignore": [
       "firebase.json",

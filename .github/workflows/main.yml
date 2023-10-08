@@ -2,7 +2,7 @@ name: Firebase Deployment
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   build:
     name: Build
@@ -14,7 +14,7 @@ jobs:
         run: npm install      
       - name: Build
         env:
-          CI: true        
+          CI: false        
         run: npm run build
       - name: Archive Production Artifact
         uses: actions/upload-artifact@v2

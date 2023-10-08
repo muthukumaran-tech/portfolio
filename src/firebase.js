@@ -8,7 +8,7 @@ import { getAnalytics } from "firebase/analytics";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "AIzaSyD_hesa_svPU66mfs4B_TQ13W4GaiIWJmU",
-  authDomain: "mk-portfolio-f7ed2.firebaseapp.com",
+  authDomain: "mk17phoenix.firebaseapp.com",
   databaseURL: "https://mk-portfolio-f7ed2-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "mk-portfolio-f7ed2",
   storageBucket: "mk-portfolio-f7ed2.appspot.com",

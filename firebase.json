@@ -1,7 +1,6 @@
 {
   "hosting": {
-    "site": "mk-portfolio-f7ed2",
-    "public": "public",
+    "public": "build",
     "ignore": [
       "firebase.json",
       "**/.*",

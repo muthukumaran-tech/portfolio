@@ -3,7 +3,7 @@ import './About.css'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
-import ME from '../../assets/mk1.png'
+import ME from '../../assets/coder.jpg'
 const About = () => {
   return (
     <section id='about'>

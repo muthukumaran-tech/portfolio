@@ -17,15 +17,27 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Include holistic analysis of the target audience, overview of  the competitive environment and usability testing</p>
+              <p>Wireframing and Prototyping</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>I can explore both the current state of your product and future business opportunities.</p>
+              <p>Iterative Design Process</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>I will define and present the core usability issues, which, if tackled, can improve your product’s business performance.</p>
+              <p>Accessibility Standards</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>User Research</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Visual Design</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Usability Testing</p>
             </li>
             
           </ul>
@@ -74,17 +86,17 @@ const Services = () => {
           </div>
 
           <ul className='service__list'>
+          <li>
+              <BiCheck className='service__list-icon'/>
+              <p>24/7 Support Availability</p>
+            </li>
             <li>
               <BiCheck className='service__list-icon'/>
               <p>Assist with identifying the root cause of problems</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Manages and resolves issues in a constantly changing environment</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Understand the customer's grasp of technology.</p>
+              <p>Remote Troubleshooting</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
@@ -92,7 +104,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Continuous Maintenance and Support</p>
+              <p>Continuous Maintenance & Support</p>
             </li>
             
             

@@ -24,8 +24,6 @@ const Portfolio = () => {
             <p>
             A centralized platform that integrates various business processes like sales, purchases, inventory, reports, and crm.
             </p>
-            {/* <a href="" className='btn' target='-blank'>Github</a> */}
-            {/* <a href="#" className='btn btn-primary' target='_blank'>Live Demo</a> */}
           </div>
         </article>
         <article className='portfolio__item'>
@@ -34,7 +32,6 @@ const Portfolio = () => {
           </div>
           <h3>Bookwedgo - Mandapam Booking Web Application</h3>
           <div className='portfolio__item-cta'>
-            {/* <a href="https://github.com" className='btn' target='-blank'>Github</a> */}
             <a href="https://bookwedgo.com" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
@@ -45,7 +42,6 @@ const Portfolio = () => {
           <h3>Kalyan Jewellers Limited - Scheme Portal</h3>
           <div className='portfolio__item-cta'>
             <p> The portal offers secure payment gateways, allowing users to pay enroll fees, topup, and renewal or receive benefits directly into their accounts.</p>
-            {/* <a href="https://github.com" className='btn' target='-blank'>Github</a> */}
           </div>
         </article>
         <article className='portfolio__item'>
@@ -54,8 +50,6 @@ const Portfolio = () => {
           </div>
           <h3>RentBased - E-commerce Web Application</h3>
           <div className='portfolio__item-cta'>
-            {/* <a href="https://github.com" className='btn' target='-blank'>Github</a> */}
-            {/* <a href="https://ongiljobs.com" className='btn btn-primary' target='_blank'>Live Demo</a> */}
             <p>Experience the freedom of renting. Rent-Based E-commerce Platform empowers you to access a wide range of products for any occasion without the hassle of ownership</p>
           </div>
         </article>
@@ -65,9 +59,8 @@ const Portfolio = () => {
           </div>
           <h3>ZingQuotes - Picture Quotes </h3>
           <div className='portfolio__item-cta'>
-            {/* <a href="https://github.com" className='btn' target='-blank'>Github</a> */}
-            <a href="https://zingquotes.com" className='btn btn-primary' target='_blank'>Live Demo</a>
-            {/* <a href="https://dribble.com/Alien_pixels" className='btn btn-primary' target='_blank'>Live Demo</a> */}
+            <p>ZingQuotes offers a collection of inspiring quotes on life, love, and psychology, designed to uplift, motivate, and spark reflection. Discover powerful insights and timeless wisdom to guide and empower you on your journey.</p>
+
           </div>
         </article>
         <article className='portfolio__item'>
@@ -76,8 +69,7 @@ const Portfolio = () => {
           </div>
           <h3>OngilJobs - Job Searching Web Application</h3>
           <div className='portfolio__item-cta'>
-            {/* <a href="https://github.com" className='btn' target='-blank'>Github</a> */}
-            <a href="https://ongiljobs.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <p>Ongil Jobs is a job recruitment portal connecting talented professionals with top employers. Find opportunities across various industries and take the next step in your career with Ongil Jobs.</p>
           </div>
         </article>
       </div>

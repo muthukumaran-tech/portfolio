@@ -3,6 +3,7 @@ import './Footer.css'
 import {AiFillYoutube} from 'react-icons/ai'
 import {FiInstagram} from 'react-icons/fi'
 import {IoLogoTwitter} from 'react-icons/io'
+import { BsLinkedin } from 'react-icons/bs'
 const Footer = () => {
   return (
     <footer>
@@ -20,7 +21,9 @@ const Footer = () => {
 
       <div className="footer__socials">
         <a href="https://twitter.com/mk17phoenix"><IoLogoTwitter/></a>
-        <a href="https://instagram.com/mk17phoenix"><FiInstagram/></a>
+        {/* <a href="https://instagram.com/mk17phoenix"><FiInstagram/></a> */}
+        <a href="https://linkedin.com/in/muthukumaran-developer/" target="__blank"><BsLinkedin/></a>
+
         <a href="https://www.youtube.com/channel/UCtK5vxHZoANz7LJycuqU9UA"><AiFillYoutube/></a>
       </div>
 
